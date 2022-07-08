@@ -23,12 +23,10 @@
 
 ----------
 
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/Alinshan/JarvisMD2/fork)
+## Setup For Deployment 👇
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALINSHAN/Jarvis-Bot-V2-Multi-Device-Qr)
+[![JarvisMD2](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALINSHAN/Jarvis-Bot-V2-Multi-Device-Qr)
   
 <div align="left">
 
