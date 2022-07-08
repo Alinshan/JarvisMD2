@@ -29,6 +29,8 @@
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALINSHAN/Jarvis-Bot-V2-Multi-Device-Qr)
+  
+<div align="left">
 
 ## `SETTINGS`
 
