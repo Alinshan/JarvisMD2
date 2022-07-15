@@ -32,12 +32,12 @@ global.available = true //auto available (true to on, false to off)
 global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
 
 //documents variants
-global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
-global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
-global.doc3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
-global.doc4 = 'application/zip'
-global.doc5 = 'application/pdf'
-global.doc6 = 'application/vnd.android.package-archive'
+//global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
+//global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+//global.doc3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+//global.doc4 = 'application/zip'
+//global.doc5 = 'application/pdf'
+//global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['918592068706'] //ur owner number
