@@ -6240,8 +6240,6 @@ await XeonBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」
 ╠ ${prefix}self
 ╠ ${prefix}public
 ╠ ${prefix}antitag
-╠ ${prefix}rentbot [add/del]
-╠ ${prefix}rentlist
 ╠ ${prefix}ban [add/del]
 ╠ ${prefix}banchat [on/off]
 ╠ ${prefix}join [link]
@@ -6905,7 +6903,6 @@ await XeonBotInc.send5ButImg(from, `╔═══════✪「 DOWNLOAD 」
 ╠${prefix}tiktok [url]
 ╠${prefix}tiktokaudio [url]
 ╠${prefix}tiktoknowm [url]
-╠${prefix}instagram [url]
 ╠${prefix}igstory [url]
 ╠${prefix}mediafire [url]
 ╠${prefix}ytmp3 [url|quality]
@@ -7009,7 +7006,6 @@ await XeonBotInc.send5ButImg(from, `╔═════✪「 IMG EFFECT 」
 ╠${prefix}wanted
 ╠${prefix}blur
 ╠${prefix}framed
-╠${prefix}gayeffect
 ╠${prefix}imagesketch
 ╠${prefix}invert
 ╠${prefix}burn
