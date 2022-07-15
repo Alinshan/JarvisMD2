@@ -32,7 +32,7 @@ class FakeShutdownEvent(object):
         "Dummy method to always return false"""
         return False
 
-    is_set = isSet
+    is_set = isSet 
 
 
 # Some global variables we use
